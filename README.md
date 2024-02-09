@@ -34,6 +34,7 @@ Then, the designed GUI appears on the screen and 3 Buttons are presented to the 
 ![GUI buttons_towerofhanoi](https://github.com/BasarOgur/TowerOfHanoiGame/assets/88591728/f4a2c0c4-286b-44c1-9e8e-616c92871b78)
 
 After the GUI opens, the user selects the algorithm and presses the start button, and the problem begins to be solved step by step. Each move and the execution time of the algorithm are displayed to the user at the top of the frame.
+
 ![executio time and moves towerofhanoi](https://github.com/BasarOgur/TowerOfHanoiGame/assets/88591728/2a286f92-8e8b-4b84-9d29-6143324b13de)
 
 
