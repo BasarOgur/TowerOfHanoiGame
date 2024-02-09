@@ -24,9 +24,11 @@ A disk can only be placed on top of a larger disk or an empty rod.
 
 ## GUI
 When the application is first run, the application receives the disk number from the user as input, as shown in below.
+
 ![console input towerofhanoi](https://github.com/BasarOgur/TowerOfHanoiGame/assets/88591728/fa05765b-4896-491f-b89d-13c1f24b779c)
 
 Then the user will enter how many disks wants, after that the GUI will open, as presented below.
+
 ![GUI of towerofhanoi](https://github.com/BasarOgur/TowerOfHanoiGame/assets/88591728/74ef7aaf-8dda-4bba-94d3-9778d5407f20)
 
 Then, the designed GUI appears on the screen and 3 Buttons are presented to the user, as shown in the below image, which allows us to start and close the application and choose which algorithm it is solved with, either iterative or recursive algorithm.
