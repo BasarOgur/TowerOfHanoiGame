@@ -30,6 +30,7 @@ Then the user will enter how many disks wants, after that the GUI will open, as 
 ![GUI of towerofhanoi](https://github.com/BasarOgur/TowerOfHanoiGame/assets/88591728/74ef7aaf-8dda-4bba-94d3-9778d5407f20)
 
 Then, the designed GUI appears on the screen and 3 Buttons are presented to the user, as shown in the below image, which allows us to start and close the application and choose which algorithm it is solved with, either iterative or recursive algorithm.
+
 ![GUI buttons_towerofhanoi](https://github.com/BasarOgur/TowerOfHanoiGame/assets/88591728/f4a2c0c4-286b-44c1-9e8e-616c92871b78)
 
 After the GUI opens, the user selects the algorithm and presses the start button, and the problem begins to be solved step by step. Each move and the execution time of the algorithm are displayed to the user at the top of the frame.
