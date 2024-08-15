@@ -39,4 +39,6 @@ After the GUI opens, the user selects the algorithm and presses the start button
 
 ![executio time and moves towerofhanoi](https://github.com/BasarOgur/TowerOfHanoiGame/assets/88591728/2a286f92-8e8b-4b84-9d29-6143324b13de)
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
